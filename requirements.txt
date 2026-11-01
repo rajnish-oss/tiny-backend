@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+tinyfish>=0.1.0
+python-dotenv==1.1.0
+apscheduler==3.11.0
+pypdf==5.6.1
+groq>=0.31.0
+python-multipart==0.0.20

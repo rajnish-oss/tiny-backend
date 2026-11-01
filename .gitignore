@@ -1,0 +1,5 @@
+*.pyc
+.env
+venv/
+jobs_cache.json
+.venv
